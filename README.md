@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vincentl2023
 - 👀 I’m interested in learning more about the exciting world of devops
 - 🌱 I’m currently learning Terraform
-- 💞️ I’m looking to collaborate on understanding containerazition and microservices more.
+- 💞️ I’m looking to collaborate on understanding containerization and microservices more.
 - 📫 How to reach me ...
 
 <!---
